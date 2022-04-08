@@ -13,7 +13,7 @@
     "express-session": "^1.15.6",
     "expressjs": "^1.0.1",
     "hbs": "~4.0.1",
-    "moment": "^2.19.2",
+    "moment": "^2.29.2",
     "mongoose": "^4.13.4",
     "morgan": "~1.9.0",
     "passport": "^0.4.0",
